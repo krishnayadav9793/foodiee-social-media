@@ -1,10 +1,9 @@
-"use client"
 import React from 'react'
-import FoodieSignup from '@/components/signup/SignupPage'
+
 function page() {
   return (
     <div>
-      <FoodieSignup/>
+      
     </div>
   )
 }
